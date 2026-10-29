@@ -33,6 +33,7 @@
     "models/**/*.ts",
     "routes/**/*.ts",
     "test/**/*.ts",
+    "test_4150/**/*.ts",
     "views/**/*.ts",
     "views/**/*.js",
     "rsn/**/*.ts",
